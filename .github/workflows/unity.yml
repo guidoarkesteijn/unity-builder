@@ -18,4 +18,4 @@ jobs:
         uses: docker/build-push-action@v3.2.0
         with:
            push: true
-           tag: guidoarkesteijn/editor:ubuntu-2022.2.1f1-webgl-1.0.1
+           tags: guidoarkesteijn/editor:ubuntu-2022.2.1f1-webgl-manual
